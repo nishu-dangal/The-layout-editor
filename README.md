@@ -1,6 +1,6 @@
 # The-layout-editor
 
-<img src="/Screenshot/Layout.jpg" width="250" height="250"/>
+<img src="/Screenshot/Layout.jpg" width="200" height="250"/>
 
 <img src="/Screenshot/layout constraint.jpg" width="250" height="250"/>
 
